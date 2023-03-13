@@ -42,6 +42,14 @@
 
 
 <body>
+<nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light shadow p-3">
+  <div class="container">
+  <a class="navbar-brand" href="#" style="padding: 20px;">
+    <img src="{{asset('assets/images/305kreationz/Logo.png')}}" width="10px" height="10px" class="" alt="" style="width: 50px; height :50px">
+    <strong style="color: #616049;">Kreationz</strong>
+  </a>
+  </div>
+</nav>
     @yield('content')
 </body>
 
