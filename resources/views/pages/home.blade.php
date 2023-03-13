@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4">
                     <div class="section-title">
-                        <h4>New product</h4>
+                        <h4>products</h4>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-8">
@@ -25,7 +25,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix bracelets">
                     <div class="product__item">
                         <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/bracelet_edt/IMG_3148_copy.jpg" style="background-image: url(&quot;assets/images/305kreationz/bracelet_edt/IMG_3148_copy&quot;);">
-                            <div class="label new">New</div>
+                            <div class="label new"></div>
                             <ul class="product__hover">
                                 <li><a href="assets/images/305kreationz/bracelet_edt/IMG_3148_copy.jpg" class="image_hover"><span class="arrow_expand"></span></a></li>
                                 <!-- <li><a href="https://preview.colorlib.com/theme/ashion/#"><span class="icon_heart_alt"></span></a></li>

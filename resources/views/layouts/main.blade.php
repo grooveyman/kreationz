@@ -38,6 +38,9 @@
     .content {
         padding: 10px;
     }
+    h1,h2,h3,h4,h5, li,a{
+        color: #616049 !important;
+    }
 </style>
 
 
