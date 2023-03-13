@@ -158,6 +158,162 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix durag">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/duraq_edt/IMG_3064.jpg" style="background-image: url(&quot;assets/images/305kreationz/duraq_edt/IMG_3064.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/duraq_edt/IMG_3064.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/Vz05cLdN">Dewy III</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3090.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3090.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3090.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/Vz05cLdN">Nature moss earings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3091.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3091.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3091.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Cosmos orange earings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3096.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3096.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3096.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Garnet brown earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3097.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3097.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3097.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Azure earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3103.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3103.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3103.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Amaranthine earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3110.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3110.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3110.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Marcasite Fusion earings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3111.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3111.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3111.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Sizzle black earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3114.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3114.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3114.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Sizzle green earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3115.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3115.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3115.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Afrique earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3121.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3121.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3121.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Sizzle orange earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3123.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3123.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3123.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Sizzle orange earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             
