@@ -314,6 +314,32 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3125.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3125.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3125.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/ExPqiT6Q">Orange moon earrings</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mix earrings">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/305kreationz/earring_edt/IMG_3127.jpg" style="background-image: url(&quot;assets/images/305kreationz/earring_edt/IMG_3127.jpg&quot;);">
+                            <ul class="product__hover">
+                                <li><a href="assets/images/305kreationz/earring_edt/IMG_3127.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="https://square.link/u/GtCMmsTV">Ebony Shell I</a></h6>
+                            <div class="product__price">$ 49.0</div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             
