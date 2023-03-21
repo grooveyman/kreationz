@@ -1075,8 +1075,9 @@ ol {
 }
 
 .filter__controls {
-    text-align: right;
+    /* text-align: right; */
     margin-bottom: 50px;
+    margin-left: -20%;
 }
 
 .filter__controls li {
